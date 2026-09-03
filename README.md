@@ -1,105 +1,124 @@
 ## Hi there 👋
 
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:8A2BE2&height=220&section=header&text=GABRIELLA%20GALDINO&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20TECH%20%7C%20INNOVATION&descAlignY=58&descSize=18"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=%5BSYSTEM+BOOT%5D+Initializing...;%5BOK%5D+Gabriella+Core+Online;%5BOK%5D+Development+Environment+Loaded;%5BOK%5D+All+Systems+Operational;%3E+Welcome+to+my+Digital+Core." alt="Typing Animation"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,50:0B1F33,100:00B8D4&section=header&text=GABRIELLA%20GALDINO&fontSize=42&fontColor=E6F7FF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=17&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=720&lines=%3E+Initializing+GabriellaOS...;%3E+Loading+creative+engine...;%3E+Connecting+to+development+core...;%3E+System+ready.;%3E+Welcome+to+my+digital+space." alt="GabriellaOS"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> <img src="https://img.shields.io/badge/PROFILE-ACTIVE-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/BUILDING-THE%20FUTURE-FF00FF?style=for-the-badge"/> </div>
-🤖 ABOUT_ME.exe
-<table> <tr> <td width="60%" valign="top">
-👩‍💻 Gabriella Galdino
-
-Olá! Eu sou a Gabriella Galdino 👋
-
-Sou apaixonada por tecnologia e desenvolvimento de software, sempre buscando aprender, experimentar novas ideias e transformar conhecimento em projetos.
-
-Meu GitHub reúne meus estudos, experiências e projetos desenvolvidos ao longo da minha jornada na tecnologia.
-
-name: Gabriella Galdino
-username: galdinogabriella
-role: Developer
-focus: Technology & Software
-learning: Continuous
-mindset: Build • Learn • Evolve
-status: ONLINE
-
-
-⚡ Explorando novas tecnologias
-
-💻 Desenvolvendo projetos
-
-🧠 Aprendendo continuamente
-
-🚀 Transformando ideias em código
-
-</td> <td width="40%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=galdinogabriella&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF&count_private=true" width="100%"/> </td> </tr> </table>
-⚡ TECH_STACK
+<img src="https://img.shields.io/badge/AVAILABLE%20FOR-NEW%20IDEAS-0B1F33?style=flat-square&labelColor=0B1F33&color=00B8D4"/> <img src="https://img.shields.io/badge/LEARNING-CONTINUOUSLY-0B1F33?style=flat-square&labelColor=0B1F33&color=7DD3FC"/> <img src="https://img.shields.io/badge/STATUS-BUILDING-0B1F33?style=flat-square&labelColor=0B1F33&color=67E8F9"/> </div> <br>
 <div align="center">
-💻 Development
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp" />
+// DIGITAL PROFILE
+</div> <table> <tr> <td width="58%" valign="top">
+Olá, eu sou a Gabriella 👋
+
+Sou Gabriella Galdino Araújo, uma desenvolvedora apaixonada por tecnologia, programação e pela criação de soluções digitais.
+
+Meu GitHub é um espaço onde registro minha evolução, meus estudos e os projetos que desenvolvo ao longo da minha jornada na tecnologia.
+
+Gosto de aprender fazendo, explorar novas ferramentas e transformar ideias em experiências digitais.
+
+<br>
+┌─────────────────────────────────────────────┐
+│  GABRIELLA // CORE                          │
+├─────────────────────────────────────────────┤
+│                                             │
+│  ROLE        →  Developer                   │
+│  INTERESTS   →  Technology                  │
+│  APPROACH    →  Learn • Build • Evolve      │
+│  MINDSET     →  Curiosity & Creativity      │
+│  STATUS      →  Online                      │
+│                                             │
+└─────────────────────────────────────────────┘
+
+</td> <td width="42%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=galdinogabriella&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=07111C&title_color=8BE9FD&icon_color=67E8F9&text_color=C9E6F2&ring_color=00B8D4" width="100%"/> </td> </tr> </table>
+<div align="center">
+// TECHNOLOGY MATRIX
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp&theme=dark" />
 
 <br><br>
 
-🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /> </div>
-🚀 PROJECT_DATABASE
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,docker&theme=dark" /> </div> <br> <table align="center"> <tr> <td align="center" width="33%">
+01
+
+DEVELOP
+
+Construir soluções e transformar ideias em código.
+
+</td> <td align="center" width="33%">
+02
+
+EXPLORE
+
+Conhecer novas tecnologias e possibilidades.
+
+</td> <td align="center" width="33%">
+03
+
+EVOLVE
+
+Aprender continuamente e melhorar a cada projeto.
+
+</td> </tr> </table>
 <div align="center">
-🏦 SUPERBANK
-<a href="https://github.com/galdinogabriella/superbank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=galdinogabriella&repo=superbank&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/> </a>
+// SELECTED WORK
+</div> <table> <tr> <td width="50%" valign="top">
+🏦 SuperBank
 
-Aula de Programação I — Informática para Negócios
+Projeto desenvolvido no contexto de Programação I — Informática para Negócios.
 
-<br> <a href="https://github.com/galdinogabriella/superbank"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> </a>
+Um dos projetos que fazem parte da minha trajetória de aprendizado em programação.
 
-<br><br>
+<br> <div align="center"> <a href="https://github.com/galdinogabriella/superbank"> <img src="https://img.shields.io/badge/OPEN%20PROJECT-00B8D4?style=for-the-badge&logo=github&logoColor=07111C"/> </a> </div> </td> <td width="50%" valign="top">
+🧠 The Bugguers
 
-🧠 THE BUGGUERS
-<a href="https://github.com/galdinogabriella/ied001-2020-2--The-Bugguers"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=galdinogabriella&repo=ied001-2020-2--The-Bugguers-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/> </a>
+Projeto desenvolvido com a proposta de explorar tecnologia, conhecimento e soluções voltadas para proporcionar mais conforto e praticidade.
 
-Produto desenvolvido com foco em conhecimento, tecnologia e conforto digital.
-
-<br> <a href="https://github.com/galdinogabriella/ied001-2020-2--The-Bugguers"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
-🧠 CURRENT_MISSION
+<br> <div align="center"> <a href="https://github.com/galdinogabriella/ied001-2020-2--The-Bugguers-"> <img src="https://img.shields.io/badge/OPEN%20PROJECT-00B8D4?style=for-the-badge&logo=github&logoColor=07111C"/> </a> </div> </td> </tr> </table>
 <div align="center">
-╔══════════════════════════════════════════════════════╗
-║              GABRIELLA // MISSION CONTROL           ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  [✓] Aprender programação                             ║
-║  [✓] Desenvolver projetos                            ║
-║  [→] Evoluir minhas habilidades técnicas             ║
-║  [→] Explorar novas tecnologias                      ║
-║  [→] Criar projetos cada vez melhores                ║
-║  [→] Continuar minha jornada na tecnologia           ║
-║                                                      ║
-║  SYSTEM STATUS: ONLINE                               ║
-║                                                      ║
-║  > KEEP LEARNING                                     ║
-║  > KEEP BUILDING                                     ║
-║  > KEEP EVOLVING                                     ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+// CURRENT OBJECTIVES
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  GABRIELLA@DEV ~ $ cat current_objectives.txt               │
+│                                                              │
+│  ──────────────────────────────────────────────────────────  │
+│                                                              │
+│  [01]  Strengthen programming fundamentals                   │
+│  [02]  Build better and more creative projects               │
+│  [03]  Explore modern technologies                           │
+│  [04]  Improve software development practices                │
+│  [05]  Keep learning through real projects                   │
+│                                                              │
+│  ──────────────────────────────────────────────────────────  │
+│                                                              │
+│  > PROCESS: LEARN → BUILD → TEST → IMPROVE                   │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 
 </div>
-📊 GITHUB_ANALYTICS
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=galdinogabriella&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdinogabriella&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=galdinogabriella&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF" width="70%"/> </div>
-📈 ACTIVITY_MATRIX
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=galdinogabriella&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=GABRIELLA%20-%20ACTIVITY%20MATRIX" width="95%"/> </div>
-🏆 GITHUB_TROPHIES
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=galdinogabriella&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/> </div>
-🐍 CONTRIBUTION_SNAKE
-<div align="center"> <img src="https://raw.githubusercontent.com/galdinogabriella/galdinogabriella/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/> </div>
-🌐 NETWORK
-<div align="center"> <a href="https://github.com/galdinogabriella"> <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/> </a> <a href="https://instagram.com/"> <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00FF"/> </a> </div>
-<div align="center"> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%3E+SYSTEM+ONLINE;%3E+KEEP+CODING;%3E+KEEP+LEARNING;%3E+BUILD+THE+FUTURE." alt="Footer Animation"/>
+<div align="center">
+// GITHUB TELEMETRY
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdinogabriella&layout=compact&langs_count=8&hide_border=true&bg_color=07111C&title_color=8BE9FD&text_color=C9E6F2" height="170"/> <img src="https://streak-stats.demolab.com?user=galdinogabriella&hide_border=true&background=07111C&ring=00B8D4&fire=67E8F9&currStreakLabel=8BE9FD&sideLabels=C9E6F2&dates=6B8494&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170"/> </div> <br> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=galdinogabriella&bg_color=07111C&color=8BE9FD&line=00B8D4&point=FFFFFF&area_color=0B3045&area=true&hide_border=true&custom_title=Contribution%20Activity" width="94%"/> </div>
+<div align="center">
+// ACHIEVEMENTS
+<img src="https://github-profile-trophy.vercel.app/?username=galdinogabriella&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/> </div>
+<div align="center">
+// CONTRIBUTION PROTOCOL
+<img src="https://raw.githubusercontent.com/galdinogabriella/galdinogabriella/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%"/> </div>
+<div align="center">
+// LET'S CONNECT
+<br> <a href="https://github.com/galdinogabriella"> <img src="https://img.shields.io/badge/GitHub-07111C?style=for-the-badge&logo=github&logoColor=8BE9FD"/> </a>
+
+ 
+
+<a href="https://www.linkedin.com/in/gabriella-galdino-araujo-005ab5198/"> <img src="https://img.shields.io/badge/LinkedIn-07111C?style=for-the-badge&logo=linkedin&logoColor=8BE9FD"/> </a>
+
+ 
+
+<a href="https://instagram.com/gaab_araujoo"> <img src="https://img.shields.io/badge/Instagram-07111C?style=for-the-badge&logo=instagram&logoColor=8BE9FD"/> </a> </div>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F7FF,100:0D1117&height=120&section=footer"/>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=650&lines=%3E+Thanks+for+visiting+my+digital+space.;%3E+Keep+learning.;%3E+Keep+building.;%3E+See+you+in+the+next+commit." alt="Footer"/>
 
-<sub>Gabriella Galdino • Developer • Technology • Innovation</sub>
+<br><br>
 
-</div>o, GitHub
-Readme Stats, Activity Graph, Trophies, Snake
-Animation e SVGs).
-O resultado deve ser totalmente pronto para copiar e colar, responsivo, limpo, altamente personalizado e com aparência de um perfil destaque (GitHub Trending), priorizando qualidade visual, organização e uma experiência única
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D4,50:0B1F33,100:020617&height=110&section=footer" width="100%"/> </div>ação e uma experiência única
